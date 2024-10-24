@@ -1,4 +1,4 @@
 ## Hi
-i'm building websites right now:
+i'm building websites, currently working on:
 
-1) zenkan.app : Flexible kanban app with satisfying sounds for personal use.
+- zenkan.app : Flexible kanban app with satisfying sounds for personal use.
